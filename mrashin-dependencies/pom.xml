@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.mrashin</groupId>
+    <version>${revision}</version>
+    <artifactId>mrashin-dependencies</artifactId>
+    <packaging>pom</packaging>
+
+    <name>${project.artifactId}</name>
+    <description>基于bom文件，管理整个项目的依赖版本</description>
+
+    <properties>
+        <revision>1.6.2-snapshot</revision>
+
+    </properties>
+
+</project>
